@@ -1,0 +1,9 @@
+.vercel
+.DS_Store
+node_modules
+*.bak
+index-lean-backup.html
+index-pm-prev.bak
+
+*.mp4
+*.mov
